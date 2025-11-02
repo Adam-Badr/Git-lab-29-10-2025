@@ -13,3 +13,23 @@ The above is what I see; the history of my commits with the most recent ones at 
 Link to the commit on github:
 * 7c7991c (HEAD -> main, origin/main, origin/HEAD) Update README with additional sentence
 
+https://github.com/Adam-Badr/Git-lab-29-10-2025/commit/ee6942de73ba68f14b6a5906c2d1c336425af7a2
+
+
+
+merge image:
+![Merge](images/merge.png)
+
+![rebase](images/rebase.png)
+I found rebasing much easier since it required way less lines to execute and it handled diverges way better. I think where your branches can be substituted easily as a series of commits rebasing is better and easier, else merge. 
+
+
+
+comment screenshot:
+![greeting](images/greeting.png)
+
+Github link:
+
+https://github.com/Adam-Badr/Git-lab-29-10-2025
+
+I used git merge here since it is easy to git merge on github (there was a button that automatically did it).
