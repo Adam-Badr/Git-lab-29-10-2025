@@ -5,4 +5,4 @@ THIS IS LINE THREEEEEEEEEEEE!
 summary:
 this was done during merge!
 
-this was done during rebase!
+This was done during rebase!
