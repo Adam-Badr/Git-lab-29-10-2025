@@ -1,0 +1,15 @@
+Exercise 1: Descirbe what i see:
+(base) LM007519:main_lab adam.badr$ git log --oneline --graph --decorate --all
+* 7c7991c (HEAD -> main, origin/main, origin/HEAD) Update README with additional sentence
+* 2e9a05b Add notes.txt with initial thoughts
+* 7129973 Delete Main-lab directory
+* ee6942d Add notes.txt with initial thoughts
+* 30542f4 lalalalalal
+* 8f053ea lalala
+* 360d30d Made first commit
+
+The above is what I see; the history of my commits with the most recent ones at the top and it descends.
+
+Link to the commit on github:
+* 7c7991c (HEAD -> main, origin/main, origin/HEAD) Update README with additional sentence
+

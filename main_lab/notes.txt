@@ -1,3 +1,7 @@
 THIS IS LINE 1111111
 THIS IS LINE 22222
 THIS IS LINE THREEEEEEEEEEEE!
+
+summary:
+The summary of the lab so far is that it has been useful!
+
