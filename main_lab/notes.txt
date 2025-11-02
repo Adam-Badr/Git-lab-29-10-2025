@@ -3,6 +3,5 @@ THIS IS LINE 22222
 THIS IS LINE THREEEEEEEEEEEE!
 
 summary:
-this was done during merge!
-
+this was done during merge! take 2!
 This was done during rebase!
